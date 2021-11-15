@@ -31,7 +31,6 @@ public class Main {
         kairat.profession = "junior QA";
         kairat.car = "bike";
         kairat.money = 250;
-
         kush.getAllInfo();
         alex.getAllInfo();
         kairat.getAllInfo();

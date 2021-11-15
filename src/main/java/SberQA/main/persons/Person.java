@@ -4,7 +4,6 @@ public class Person {
     public int age = 0; // Поле класса, у int Значение по умолчания 0
     public double weight = 0;
     public int money = 0;
-
     public String name = "unnamed human"; //Поле класса, у String Значение по умолчания null
     public String profession = "unnamed profesion";
     public String car = "unnamed car";
