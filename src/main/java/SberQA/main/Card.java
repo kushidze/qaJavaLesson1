@@ -13,7 +13,7 @@ public class Card {
         person1.setAge(60);
         //Считаем срок до пенсии и выводим всей информации
         person1.getRetairmentInfo();
-        person1.getAllInfo();
+        person1.printAllInfo();
 
         Person person2 = new Person();
 
@@ -24,7 +24,7 @@ public class Card {
         person2.setAge(17);
         //Считаем срок до пенсии и выводим всей информации
         person2.getRetairmentInfo();
-        person2.getAllInfo();
+        person2.printAllInfo();
 
 
         Person person3 = new Person();
@@ -36,7 +36,7 @@ public class Card {
         person3.setAge(68);
         //Считаем срок до пенсии и выводим всей информации
         person3.getRetairmentInfo();
-        person3.getAllInfo();
+        person3.printAllInfo();
 
         Person person4 = new Person();
 
@@ -47,7 +47,7 @@ public class Card {
         person4.setAge(45);
         //Считаем срок до пенсии и выводим всей информации
         person4.getRetairmentInfo();
-        person4.getAllInfo();
+        person4.printAllInfo();
 
     }
 }

@@ -75,7 +75,7 @@ public class Person {
         return years;
     }
 
-    public void getAllInfo() {
+    public void printAllInfo() {
         System.out.println("\n" + name + "'s" + " Card Information: " + "\n" + "Gender: " + gender + "\n" + "Age: " + age + " Years" + "\n" +
                 "Salary: " + salary + "\n" + "Remain for Retirement: " + getRetairmentInfo() + "\n");
     }
